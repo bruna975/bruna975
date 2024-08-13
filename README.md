@@ -3,7 +3,7 @@
 my name is Bruna 
 
 
--estou estudando no [alura](https://alura.com.br)
+-sou estudante da [alura](https://alura.com.br)
 
 -estou desenvolvendo a linguagem javascrit
 
